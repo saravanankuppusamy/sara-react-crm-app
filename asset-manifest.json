@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sara-react-crm-app/static/css/main.1c9b3e01.css",
+    "main.js": "/sara-react-crm-app/static/js/main.24c165d8.js",
+    "index.html": "/sara-react-crm-app/index.html",
+    "main.1c9b3e01.css.map": "/sara-react-crm-app/static/css/main.1c9b3e01.css.map",
+    "main.24c165d8.js.map": "/sara-react-crm-app/static/js/main.24c165d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c9b3e01.css",
+    "static/js/main.24c165d8.js"
+  ]
+}
